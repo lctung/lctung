@@ -1,5 +1,4 @@
-## Hi there 👋
-<h3><center>🦆🦆 Hello 🦆🦆</center>
+<h3 align="center">🦆🦆🦆 Hellooo 🦆🦆🦆</h3>
 <!--
 **chiutung23/chiutung23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
